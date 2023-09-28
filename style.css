@@ -16,3 +16,11 @@ table,td, tr{
     margin-left: auto;
     margin-right: auto;
 }
+.minikep{
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #4d0808;
+}
