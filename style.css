@@ -1,5 +1,5 @@
 body {
-    color:brown;
+    color:#4d0808;
     background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
 }
 h1 {
@@ -7,4 +7,12 @@ h1 {
 }
 a {
     color: darkslategrey;
+}
+table,td, tr{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #a77;
+    padding: .5rem;
+    margin-left: auto;
+    margin-right: auto;
 }
